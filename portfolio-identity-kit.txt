@@ -1,0 +1,20 @@
+# Portfolio Identity Kit: Clean Frame Architecture
+
+### 1. Typography Selection
+* Heading Font: Inter (Bold, 700 / SemiBold, 600) — Google Fonts
+* Body Font: Inter (Regular, 400 / Medium, 500) — Google Fonts
+* Design Rationale: Inter provides a neutral, highly legibile, product-grade foundation that mimics modern UI engineering tools (Vercel, Linear) without competing with case study visuals.
+
+### 2. Color Palette (Hex Codes)
+* Background (Near-White): `#FAFAFA` (Canvas)
+* Text (Near-Black): `#0F172A` (Deep Slate - 15.8:1 contrast ratio)
+* Card & Border Surface: `#E2E8F0` (Subtle Border)
+* Accent (Interactive/CTAs): `#6D28D9` (Electric Violet - Calm yet distinct)
+
+### 3. Logo & Favicon Specification
+* Logo Mark: Clean "EK" monogram set in Inter Bold (700) framed within a `#0F172A` container.
+* Favicon: Minimal 32x32px dark squircle with a single Electric Violet `#6D28D9` node dot.
+
+### 4. Two-Line System Style Note
+> Typography & Palette: Inter (Headings: 600/700, Body: 400/500). Background: `#FAFAFA`, Primary Text: `#0F172A`, Card Borders: `#E2E8F0`, Accent/Links: `#6D28D9`.  
+> Mood & Layout: Clean, disciplined, slate-inspired framing with generous whitespace (`gap-6` / `p-8`) where real UI screenshots and technical proof are the most vibrant elements on the page.
