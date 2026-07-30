@@ -1,20 +1,28 @@
-# Portfolio Identity Kit: Clean Frame Architecture
+Portfolio Identity Kit: Modern Editorial Frame
+1. Typography Selection
+Heading Font: Playfair Display (Medium, 500 / SemiBold, 600) — Google Fonts
 
-### 1. Typography Selection
-* Heading Font: Inter (Bold, 700 / SemiBold, 600) — Google Fonts
-* Body Font: Inter (Regular, 400 / Medium, 500) — Google Fonts
-* Design Rationale: Inter provides a neutral, highly legibile, product-grade foundation that mimics modern UI engineering tools (Vercel, Linear) without competing with case study visuals.
+Rationale: A modern, editorial serif that introduces subtle sophistication and a high-end editorial feel without feeling traditional or dusty.
 
-### 2. Color Palette (Hex Codes)
-* Background (Near-White): `#FAFAFA` (Canvas)
-* Text (Near-Black): `#0F172A` (Deep Slate - 15.8:1 contrast ratio)
-* Card & Border Surface: `#E2E8F0` (Subtle Border)
-* Accent (Interactive/CTAs): `#6D28D9` (Electric Violet - Calm yet distinct)
+Body & UI Font: Plus Jakarta Sans (Regular, 400 / Medium, 500) — Google Fonts
 
-### 3. Logo & Favicon Specification
-* Logo Mark: Clean "EK" monogram set in Inter Bold (700) framed within a `#0F172A` container.
-* Favicon: Minimal 32x32px dark squircle with a single Electric Violet `#6D28D9` node dot.
+Rationale: An ultra-clean, modern geometric sans-serif that balances the serif headings and ensures code, metrics, and case studies read effortlessly.
 
-### 4. Two-Line System Style Note
-> Typography & Palette: Inter (Headings: 600/700, Body: 400/500). Background: `#FAFAFA`, Primary Text: `#0F172A`, Card Borders: `#E2E8F0`, Accent/Links: `#6D28D9`.  
-> Mood & Layout: Clean, disciplined, slate-inspired framing with generous whitespace (`gap-6` / `p-8`) where real UI screenshots and technical proof are the most vibrant elements on the page.
+2. Color Palette (Hex Codes)
+Background (Near-White): #F8FAFC (Slate Porcelain — crisp, airy, and modern)
+
+Text (Near-Black): #0F172A (Deep Obsidian — 15.8:1 contrast ratio)
+
+Card & Border Surface: #E2E8F0 (Soft Slate)
+
+Accent Color (Derived from Favicon Orb): #3B82A6 (Calm Cerulean — peaceful, refined, non-aggressive accent)
+
+3. Logo & Favicon Assets
+Logo: Minimalist white line-art hat silhouette set against dark surfaces or crisp light backgrounds.
+
+Favicon: Soft 3D sky-blue to deep teal gradient orb (#BCE7F0 ➔ #3B82A6).
+
+4. Two-Line System Style Note (For AI Workspace)
+Typography & Palette: Headings: Playfair Display (500/600), Body: Plus Jakarta Sans (400/500). Background: #F8FAFC, Primary Text: #0F172A, Borders: #E2E8F0, Accent: #3B82A6.
+
+Mood & Layout: A modern, calm, editorial aesthetic with subtle luxury framing—generous whitespace, understated slate borders, and crisp serif typography that elevates case study evidence without stealing the show.
